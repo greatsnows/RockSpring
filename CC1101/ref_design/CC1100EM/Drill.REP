@@ -1,0 +1,58 @@
+--------------------------------------------------------------------------------
+                              Batch Process Report
+
+                     CADSTAR Design Editor Version 9.0.0.2
+
+Design:     C:\Documents and Settings\aua\Desktop\CC1100EM_PCB_Antenna\pcb\CC1100EM_PCB_Antenna_1_3.pcb
+
+Design Title:
+CC1100 EM PCB Antenna 1.3
+
+Units:            Thousandths of an inch
+Decimal Places:   2
+
+Date:      16. mars 2007
+Time:      09:54
+
+--------------------------------------------------------------------------------
+
+************************************ ROW 6 ************************************
+
+
+ [<None>] :: [Drill Drawing] :: [drill.col] :: [Photo Plotter] :: [ext_gerber.usr] :: [Photoplot_art.sel] :: [drill.spl] 
+
+
+Drill Report
+------------
+
+      Size    Plate Through    Letter     Count
+      ----    -------------    ------     -----
+     10.00              Yes         A       156
+     14.00              Yes         B         5
+     20.00              Yes         C         2
+     55.00              Yes         D         4
+
+
+Symbol Availability Report
+--------------------------
+
+Position    Shape          Usage           Size    Orient        Length     Count
+--------    -----          -----           ----    ------        ------     -----
+
+Predefined Symbols
+------------------
+
+
+Auto Allocated Symbols
+----------------------
+
+11          CIRCLE         Drawn           1.00                                  
+12          ANNULUS        Flashed        60.00                   30.00       167
+13          CIRCLE         Drawn           5.00                                  
+14          CIRCLE         Drawn           8.00                                  
+
+
+Row 6 completed successfully.
+
+************************************ ROW 7 ************************************
+
