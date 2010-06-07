@@ -1,1 +1,1 @@
-Rock Spring project is a electronic security system.
+Rock Spring project is a wireless alarm and security systems.
